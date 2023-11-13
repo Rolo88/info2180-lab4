@@ -1,0 +1,59 @@
+
+
+body{
+    background-color: #f0f0f0;
+}
+
+.avenger-head{
+    color: white;
+    background-color: #68b1e5;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+
+.content{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin: 0px 210px;
+}
+
+
+input{ 
+    padding: 15px 0px;
+    width: 80%;
+ 
+}
+
+#search{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+ 
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+
+
+
+
+.error{
+
+    color: red ;
+    font-size: 20px;
+    font-weight: 600;
+
+}
